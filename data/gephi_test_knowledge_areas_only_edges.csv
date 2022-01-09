@@ -1,0 +1,41 @@
+Source,Target,Type
+0,Verwerking exchange students,Undirected
+0,Ontvangst exchange students,Undirected
+1,Afstudeerprocedure,Undirected
+1,Aanpassingen Nestor,Undirected
+1,Roosteren,Undirected
+1,Zaalaanvragen,Undirected
+2,Afstudeerprocedure,Undirected
+2,Examencommissie besluiten,Undirected
+2,Stagecontracten,Undirected
+2,Aanpassingen Nestor,Undirected
+3,Cijferverwerking,Undirected
+3,Zaalaanvragen,Undirected
+4,Afstudeerprocedure,Undirected
+4,Dataverwerking Ocasys,Undirected
+4,Zaalaanvragen,Undirected
+5,Roosteren,Undirected
+5,Vakintekening,Undirected
+6,Cijferverwerking,Undirected
+6,Diploma's afgeven,Undirected
+6,Zaalaanvragen,Undirected
+7,Afstudeerprocedure,Undirected
+7,Niet-reguliere administratie,Undirected
+8,Afstudeerprocedure,Undirected
+8,Contractuele zaken,Undirected
+8,Vakintekening,Undirected
+8,Dataverwerking Ocasys,Undirected
+9,Niet-reguliere administratie,Undirected
+9,Verwerking exchange students,Undirected
+9,Diploma's afgeven,Undirected
+10,Afstudeerprocedure,Undirected
+10,Niet-reguliere administratie,Undirected
+10,Vakintekening,Undirected
+10,Examencommissie besluiten,Undirected
+11,Examencommissie besluiten,Undirected
+11,Kwaliteitswaarborging onderwijs,Undirected
+12,Kwaliteitswaarborging onderwijs,Undirected
+12,Examencommissie besluiten,Undirected
+13,Verwerking exchange students,Undirected
+13,Cijferverwerking,Undirected
+14,Roosteren,Undirected
