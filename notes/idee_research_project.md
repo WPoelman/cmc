@@ -21,10 +21,6 @@ Nodes
 - Werktaken (knowledge gebieden) 
 - Online commuicatietools 
 
-## Possible research question
-- Can we measure online knowledge sharing competence with regards to certain online communication tools?
-- To what extend can this measurement assist/give insight into the efficiency of knowledge sharing between employees in a hyrbid office and work-from-home setting?
-
 ## Operationalization
 - Knowledge sharing: explain work-related tasks/systems 
   - Online knowledge sharing: via online communication tools
@@ -48,4 +44,26 @@ Competence linken aan kennisgebied, conclusies? aanbevelingen?
 - Onderzoeksvraag heeft main concepts, operationalisering. Termen opzoeken in theorie!
 - We doen een soort case study, waar er toch niet zo veel medewerkers zijn, dus sampling is niet echt van toepassing.
 - CMC als onderzoeksgebied erbij
+
+## Possible research question
+- To what extend can we gain insight into the process of knowledge sharing between employees in a hyrbid office and work-from-home setting?
+  - To what extend can we define knowledge areas within this process of knowledge sharing?
+  - To what extend can we measure knowledge sharing competence with regards to certain communication methods?
+  - To what extend is there a relation between the work location preference and knowledge sharing competence?
+
+Verschillende focussen leggen op subgebieden, theorieën bijlangs gaan, explorerend onderzoek.
+
+## Structure
+- [Introduction] Global question with motivation in it (location preference, knowledge sharing as interaction / explaining (dus niet iets op een wiki gooien oid)), organization, relevance, case study
+- [Data] Describe questionnaire, participants (case study, small number of employees so no special sampling required), literature on CMC competence
+- [Method] Operationalization of terms + methods of analysis (descriptive statistics, coding)
+  - knowledge areas
+  - tools
+  - competence
+- [Results] Advice on:
+  - per knowledge area / per tools / per employee / per work location preference / face 2 face scores vs tool scores (email same as f2f?)
+  - certain knowledge area(s) (which employee to pick online / home, low competence across employees in entire knowledge areas)
+  - online communication tool use (slack is bad, too complex, email scores high?)
+  - Do the employees that prefer to work from home have high competence? (zo niet, dan moet daar wat aan gebeuren?)
+
 
